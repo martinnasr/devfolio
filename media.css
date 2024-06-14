@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) { 
+    #services .container .serv-content{
+        width: 100%;
+    }
+     #services .container .serv-content .content {
+        text-align:left;
+        
+    }
+
+
+}
